@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-tinasot9874
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+My name is Hieu Tran ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] 
+
 <!--
 **tinasot9874/tinasot9874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
